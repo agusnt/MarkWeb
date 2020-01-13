@@ -3,6 +3,10 @@
 This is an example of how I made my webpage using Markdown and Pandoc (and
 sometimes a bit of HTML).
 
+You can see an example on my personal 
+[webpage: http://webdiis.unizar.es/~agusnt/](http://webdiis.unizar.es/~agusnt/) 
+(not github, that one's outdated).
+
 ## Requirements
 
 * pandoc
