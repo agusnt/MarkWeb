@@ -17,6 +17,13 @@ __Other Stuff__
 
 ---
 
+### Configuration Files
+
+In the following links you can find my [vimrc](config/vimrc),
+[zshrc](config/zshrc) and [tmux](config/tmux) configuration files.
+
+---
+
 ### More stuff
 
 This website is made with _Markdown_, _Bash_ and _Pandoc_ (source code available on 
